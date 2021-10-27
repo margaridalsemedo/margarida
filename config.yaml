@@ -100,18 +100,20 @@ params:
       img: "./images/halls.jpg"
       githublink: "https://github.com/margaridalsemedo/Halls.git"
       featuredlink: "https://halls-desembrulhaomomento.netlify.app"
-      description: "Design and development of a project for Halls school projet. "
+      description: "Design and development of a project for Halls school projet. | Role: UX/UI Designer, Front-end Developer"
 
     - name: "Awesome Books"
       img: /images/awesomebooks.jpg
       githublink: "https://github.com/margaridalsemedo/Awesomebooks"
       featuredlink: "https://awesome-books-edit.netlify.app"
-      description: "Redesign and development of the bookstore Awesome Books for a school project. "
+      description:
+        "Redesign and development of the bookstore Awesome Books for a school project. |
+        Role: UX/UI Designer, Front-end Developer"
 
     - name: "Castelhana Real Estate"
       img: /images/castelhana.jpg
       featuredlink: "https://www.castelhana.pt/"
-      description: "Redesign of Castelhana's website."
+      description: "Redesign of Castelhana's website. | Role: UX/UI Designer"
 
   # Achievements
   disable_achievements: true
